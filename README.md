@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ## How to contribute
 
 ## Deployment
+This is a simple web proyect, deplyment
